@@ -1,0 +1,53 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+h4 {
+	color: #0c0c0c;
+	font-size: 12px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 1px;
+	}
+
+.funBtn {
+	background-color: rgba(251, 251, 39, 0.734);
+	width: 250px;
+	height: 35px;
+	margin-block: 5px;
+}
+
